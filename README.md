@@ -2,25 +2,22 @@
 
 ## `Desenvolvedor Junior`
 <img src="https://github.com/FilipeSilveira-Tech/FilipeSilveira-Tech/blob/main/caricatura.png" height="500px" align="right"/>
-<p align="left">Sou desenvolvedor em formação, com foco em <b>NODE JS</b>, <b>JavaScript</b> e <b>TypeScript</b>, atualmente em transição de carreira para a área de desenvolvimento de software. 
-Venho de uma trajetoria profissional em ambientes corporativos, trabalho com sistemas, processos, análise de dados, o que me trouxe base sólida em organização, responsabilidade e resolução de problemas reais.</p>
+<p align="left">Sou desenvolvedor back-end junior, com foco em <b>Type Script, JavaScript, Node.js, Express, APIs</b>, atualmente em transição de carreria para a área de desenvolvimento.
+  Tenho uma trajetoria profissional em ambientes corporativo, trabalhando com ERP SAP S/4HANA, com conhecimento aprofundados no modulo Materials Management (MM), trabalhando com desenvolvimento de planilhas, análise de dados, e processos, o que me trouxe uma base sólida de organização, responsabilidade e resolução de problemas reais do setor.</p>
 
 ---
 ### `🚀 Em que estou focado atualmente`
-- Fundamentos de JavaScript e TypeScript
-- Lógica de programação aplicada a problemas reais
-- Manipulação e transformação de dados
-- Funções, arrays, objetos e boas práticas de código
+- Aprofundamento em TypeScript.
+- Aprofundamento em APIs com Node + Express
+- Manipulação de dados.
+- Boas práticas de 'Clean Code'
 - Versionamento com Git e GitHub
 
 Meu objetivo é construir uma base técnica forte antes de avançar para frameworks e aplicações mais complexas.
 
-### `🧩 Projetos em andamento:`
-<a href="https://github.com/ShadownJin/ShadownJin"><img alt="Static Badge" src="https://img.shields.io/badge/github-ShadownJin Bot-blue?logo=github"></a>
-
 ---
 ### `🛠️ Tecnologias e conhecimentos`
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,express,react,ps,firebase,bootstrap,discord,bots,git,github,mysql,nodejs,php,postgres,postman,py,vscode)](#)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,express,react,ps,firebase,discord,git,github,mysql,nodejs,postgres,postman,py,vscode)](#)
 
 ---
 ### `🎯 Objetivo profissional`
@@ -31,5 +28,3 @@ Busco minha **primeira oportunidade como desenvolvedor júnior ou trainee**, em 
 <img align="left" title="LINKEDIN" alt="LINKEDIN" width="25px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/filipesilveira-dev/" target="_blank">filipesilveira-dev<a/>
 
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/FilipeSilveira-Tech/count.svg)
