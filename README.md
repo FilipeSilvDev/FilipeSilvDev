@@ -132,12 +132,7 @@ Busco minha **primeira oportunidade como desenvolvedor**, onde eu possa aplicar 
   <img
     height="180"
     alt="Estatísticas do GitHub"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=FilipeSilvDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&cache_seconds=86400"
-  />
-  <img
-    height="180"
-    alt="Linguagens mais usadas"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilipeSilvDev&theme=tokyonight&hide_border=true&layout=compact&custom_title=Tecnologias&langs_count=8&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeSilvDev&theme=bear&show_icons=true&hide_border=false&layout=compact"
   />
 </p>
 
