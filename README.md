@@ -5,7 +5,7 @@
      Tamanho recomendado: 1500 x 600 px (proporção 5:2)
      Sugestão de tema: ambiente digital escuro, tons de azul/ciano, elementos sutis de
      código, fluxos de dados e caixas/etiquetas (referência à logística). Sem texto na imagem. -->
-<img src="Images/bannerTE.png" alt="Banner - Filipe Silveira, Desenvolvedor Backend" width="100%" />
+<img src="Images/banner-novo.png" alt="Banner - Filipe Silveira, Desenvolvedor Backend" width="100%" />
 
 <br><br>
 
