@@ -92,13 +92,6 @@ Essa vivência me deu capacidade analítica para lidar com **grandes volumes de 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="Images/minecraft-tracker.png" alt="Minecraft Tracker" height="100" />
-      <h3>🎮 Minecraft Tracker</h3>
-      <p>Contador de horas jogadas de Minecraft com gráficos de estatísticas. Criado como projeto de aprendizado de C#.</p>
-      <p><b>Stack:</b> C# · SQLite</p>
-      <p><a href="https://github.com/FilipeSilvDev/MinecraftTracker">Ver repositório →</a></p>
-    </td>
-    <td width="50%" valign="top">
       <img src="Images/rfid-almoxarifado.png" alt="RFID Almoxarifado" height="100" />
       <h3>🏷️ RFID Almoxarifado</h3>
       <p>Projeto-base para o setor de TI da empresa, voltado à impressão e ao uso de etiquetas RFID no controle de ativos do almoxarifado.</p>
